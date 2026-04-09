@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>予琋 | Personal Page</title>
+
+<style>
+    body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Noto Sans TC", sans-serif;
+        background: #f8fbff;
+        color: #2c2c2c;
+        line-height: 1.6;
+    }
+
+    .container {
+        max-width: 720px;
+        margin: 80px auto;
+        padding: 0 24px;
+    }
+
+    h1 {
+        font-size: 32px;
+        font-weight: 500;
+        margin-bottom: 8px;
+        color: #1e3a5f;
+    }
+
+    .subtitle {
+        font-size: 14px;
+        color: #6b7c93;
+        margin-bottom: 40px;
+    }
+
+    section {
+        margin-bottom: 48px;
+    }
+
+    h2 {
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 12px;
+        color: #3a5f8a;
+    }
+
+    p {
+        margin: 6px 0;
+    }
+
+    .tag {
+        display: inline-block;
+        background: #eaf2fb;
+        color: #3a5f8a;
+        padding: 4px 10px;
+        border-radius: 999px;
+        font-size: 12px;
+        margin: 4px 6px 0 0;
+    }
+
+    footer {
+        margin-top: 80px;
+        font-size: 12px;
+        color: #9aa7b2;
+    }
+</style>
+</head>
+
+<body>
+<div class="container">
+
+    <h1>予琋</h1>
+    <div class="subtitle">Icey · 以文字與思考為軸的觀察者</div>
+
+    <section>
+        <h2>關於我</h2>
+        <p>喜歡在世界的縫隙中觀察與書寫。</p>
+        <p>對語言、思想與人之間的關係保持長期的好奇。</p>
+        <p>正在尋找一種不必擠入金字塔，也能持續前進的方式。</p>
+    </section>
+
+    <section>
+        <h2>關鍵詞</h2>
+        <span class="tag">文學</span>
+        <span class="tag">思辨</span>
+        <span class="tag">人權</span>
+        <span class="tag">語言分析</span>
+        <span class="tag">教育</span>
+        <span class="tag">內在探索</span>
+    </section>
+
+    <section>
+        <h2>近期思考</h2>
+        <p>▸ 個體是否可以在不競爭的情況下，仍然保持成長？</p>
+        <p>▸ 制度與人之間，誰在塑造誰？</p>
+        <p>▸ 書寫是否是一種溫柔的抵抗？</p>
+    </section>
+
+    <section>
+        <h2>聯絡</h2>
+        <p>Email: your@email.com</p>
+        <p>Instagram: @icey</p>
+    </section>
+
+    <footer>
+        © 2026 Icey
+    </footer>
+
+</div>
+</body>
+</html>
